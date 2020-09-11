@@ -1,0 +1,19 @@
+{
+  "name": "frontend-test-aka-new-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newmediapilot/frontend-test-aka-new-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmediapilot/frontend-test-aka-new-media/issues"
+  },
+  "homepage": "https://github.com/newmediapilot/frontend-test-aka-new-media#readme"
+}
